@@ -62,7 +62,7 @@ Menganalisis **CLV pelanggan, segmen pelanggan, korelasi rating, dan faktor disk
 ---
 
 ## 🏆 **Sertifikasi & Validasi**  
-Dashboard ini telah divalidasi dan mendapatkan sertifikasi dalam **Power BI & Data Visualization**.  
+Dashboard ini telah divalidasi dan mendapatkan sertifikasi dalam **Data Visualization**.  
 
 ![Power BI Certificate](https://github.com/hijirdella/KimiaFarma-CLV-Sales-Analysis/blob/140f4b5297a39b1f4ccb58b97dd7f67e5d4e2d6a/Dashboard/pbi-Kimia%20Farma_Certificate.jpg)  
 
